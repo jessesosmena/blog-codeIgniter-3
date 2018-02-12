@@ -2,17 +2,17 @@ Demo: https://blogappcodeigniter.000webhostapp.com/users/login
 
 Install CodeIgniter in XAMPP
 
-First git clone this repository extract its contents to the "htdocs" folder of XAMPP. Rename the folder to some application name such as "ci_auth" or any.
+First git clone this repository extract its contents to the "htdocs" folder of XAMPP. Rename the folder to some application name such as "ci_blog" or any.
 
 Configure and Setup the CodeIgniter Environment
 
-* Open the applicaion/config/config.php.
+* Open the application/config/config.php.
 * We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " " or to the base url path.
+
+import blog.sql located in the root folder to phpmyadmin Databases
 
 Connect to Database in CodeIgniter
 application/config/database.php file.
-
-import codeIgniter.sql to phpmyadmin located on the root folder
 
 Here are the connectivity details for MySQL Database.
 
@@ -23,11 +23,13 @@ $db['default']['database'] = 'employee'; //database name
 $db['default']['dbdriver'] = 'mysql';
 
 
-Configure the .htaccess / RewriteBase property
+Configure the .htaccess / RewriteBase value
 
-RewriteBase / write here the name of your folder
+RewriteBase / write here the name of the folder
 
 start XAMPP browse to localhost/ name of the folder
+
+The Application was made in 2015 
 
 
 ###################
