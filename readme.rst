@@ -2,7 +2,7 @@ Demo: https://blogappcodeigniter.000webhostapp.com/users/login
 
 Install CodeIgniter in XAMPP
 
-First git clone this repository extract its contents to the "htdocs" folder of XAMPP. Rename the folder to some application name such as "ci_blog" or any.
+Clone the repository extract its contents to the "htdocs" folder of XAMPP. Rename the folder to some application name such as "ci_blog" or any.
 
 Configure and Setup the CodeIgniter Environment
 
