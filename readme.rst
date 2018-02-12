@@ -29,7 +29,7 @@ RewriteBase / write here the name of the folder
 
 start XAMPP browse to localhost/ name of the folder
 
-The Application was made in 2015 
+This Application was made in 2015 
 
 
 ###################
