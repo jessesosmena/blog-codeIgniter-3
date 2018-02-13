@@ -1,4 +1,4 @@
-Demo: https://blogappcodeigniter.000webhostapp.com/users/login
+Demo: https://blogappcodeigniter.000webhostapp.com/home
 
 Install CodeIgniter in XAMPP
 
