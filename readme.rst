@@ -1,4 +1,4 @@
-Demo: https://blogappcodeigniter.000webhostapp.com/home
+#Demo: https://blogappcodeigniter.000webhostapp.com/home
 
 Install CodeIgniter in XAMPP
 
@@ -7,7 +7,7 @@ Clone the repo extract its contents to the "htdocs" folder of XAMPP. Rename the 
 Configure and Setup the CodeIgniter Environment
 
 * Open the application/config/config.php.
-* We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " " or to the base url path.
+* We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " " or to base url path.
 
 import blog.sql included at the root folder import to phpmyadmin Databases
 
@@ -25,7 +25,7 @@ $db['default']['dbdriver'] = 'mysql';
 
 Set .htaccess / RewriteBase property value
 
-RewriteBase / name of the project folder
+RewriteBase / name of the project directory
 
 Start XAMPP browse to localhost/ name of the project folder
  
